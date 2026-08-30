@@ -29,7 +29,9 @@ const Dima = {
 ## What I Build
 🔧 **APIs & Backend**
 REST APIs, authentication, databases and integrations.
+
 🤖 **Automation**
 Web scraping, Telegram bots and automated workflows.
+
 🌐 **Web Applications**
 Full-stack applications with React, Vue and Node.js.
