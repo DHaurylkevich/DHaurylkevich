@@ -1,4 +1,4 @@
-# Hi, I'm Dmitry
+# Hi
 > "Building ideas into real things, one project at a time."
 
 ## About Me
