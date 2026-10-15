@@ -1,5 +1,5 @@
 # Hi
-> "Building ideas into real things, one project at a time."
+> "Building ideas into real things"
 
 ## About Me
 ---
